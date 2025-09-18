@@ -82,9 +82,15 @@ pytest tests/
 ```
 emotion-project/
 │── emotion_detector/
+│   ├── __pycache__
 │   ├── __init__.py
 │   ├── emotion.py
+│   ├── emotionss.py
+│── emotion-project/
+│── templates
+│   ├── index
 │── tests/
+│   ├── __pycache__
 │   ├── test_emotion.py
 │── emotions_app.py
 │── server.py
